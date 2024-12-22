@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Faizan Javed
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on my javascript projects
+- 👀 I’m interested in cloud computing
+- 🌱 I’m currently learning and building projects in AWS
 - 📫 How to reach me : email at: fazanii092@gmail.com
 
 <!---
